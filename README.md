@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Andres-M-Rios
 - 👀 I’m interested in Rust
-- 🌱 I’m currently learning PHP 8.0 and Rust
-- 💞️ I’m looking to collaborate on bat
+- 🌱 I’m currently learning PHP 8.X and Rust
+- 💞️ I’m doing a deep dive into Swift & SwiftUI with Mac & iOS development
 - 📫 How to reach me andy@amprwebsolutions.com OR my website https://amprwebsolutions.com
 
 <!---
